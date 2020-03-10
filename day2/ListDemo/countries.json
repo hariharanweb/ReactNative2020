@@ -1,0 +1,430 @@
+[
+    {
+        "countryId": "AD",
+        "countryName": "ANDORRA"
+    },
+    {
+        "countryId": "AE",
+        "countryName": "UNITED ARAB EMIRATES"
+    },
+    {
+        "countryId": "AF",
+        "countryName": "AFGHANISTAN"
+    },
+    {
+        "countryId": "AG",
+        "countryName": "ANTIGUA AND BARBUDA"
+    },
+    {
+        "countryId": "AI",
+        "countryName": "ANGUILLA"
+    },
+    {
+        "countryId": "AL",
+        "countryName": "ALBANIA"
+    },
+    {
+        "countryId": "AM",
+        "countryName": "ARMENIA"
+    },
+    {
+        "countryId": "AN",
+        "countryName": "NETHERLANDS ANTILLES"
+    },
+    {
+        "countryId": "AO",
+        "countryName": "ANGOLA"
+    },
+    {
+        "countryId": "AQ",
+        "countryName": "ANTARCTICA"
+    },
+    {
+        "countryId": "AR",
+        "countryName": "ARGENTINA"
+    },
+    {
+        "countryId": "AS",
+        "countryName": "AMERICAN SAMOA"
+    },
+    {
+        "countryId": "AT",
+        "countryName": "AUSTRIA"
+    },
+    {
+        "countryId": "AU",
+        "countryName": "AUSTRALIA"
+    },
+    {
+        "countryId": "AW",
+        "countryName": "ARUBA"
+    },
+    {
+        "countryId": "AX",
+        "countryName": "ÅLAND ISLANDS"
+    },
+    {
+        "countryId": "AZ",
+        "countryName": "AZERBAIJAN"
+    },
+    {
+        "countryId": "BA",
+        "countryName": "BOSNIA AND HERZEGOVINA"
+    },
+    {
+        "countryId": "BB",
+        "countryName": "BARBADOS"
+    },
+    {
+        "countryId": "BD",
+        "countryName": "BANGLADESH"
+    },
+    {
+        "countryId": "BE",
+        "countryName": "BELGIUM"
+    },
+    {
+        "countryId": "BF",
+        "countryName": "BURKINA FASO"
+    },
+    {
+        "countryId": "BG",
+        "countryName": "BULGARIA"
+    },
+    {
+        "countryId": "BH",
+        "countryName": "BAHRAIN"
+    },
+    {
+        "countryId": "BI",
+        "countryName": "BURUNDI"
+    },
+    {
+        "countryId": "BJ",
+        "countryName": "BENIN"
+    },
+    {
+        "countryId": "BL",
+        "countryName": "SAINT BARTHÉLEMY"
+    },
+    {
+        "countryId": "BM",
+        "countryName": "BERMUDA"
+    },
+    {
+        "countryId": "BN",
+        "countryName": "BRUNEI DARUSSALAM"
+    },
+    {
+        "countryId": "BO",
+        "countryName": "BOLIVIA"
+    },
+    {
+        "countryId": "BR",
+        "countryName": "BRAZIL"
+    },
+    {
+        "countryId": "BS",
+        "countryName": "BAHAMAS"
+    },
+    {
+        "countryId": "BT",
+        "countryName": "BHUTAN"
+    },
+    {
+        "countryId": "BV",
+        "countryName": "BOUVET ISLAND"
+    },
+    {
+        "countryId": "BW",
+        "countryName": "BOTSWANA"
+    },
+    {
+        "countryId": "BY",
+        "countryName": "BELARUS"
+    },
+    {
+        "countryId": "BZ",
+        "countryName": "BELIZE"
+    },
+    {
+        "countryId": "CA",
+        "countryName": "CANADA"
+    },
+    {
+        "countryId": "CC",
+        "countryName": "COCOS (KEELING) ISLANDS"
+    },
+    {
+        "countryId": "CD",
+        "countryName": "CONGO, THE DEMOCRATIC REPUBLIC OF THE"
+    },
+    {
+        "countryId": "CF",
+        "countryName": "CENTRAL AFRICAN REPUBLIC"
+    },
+    {
+        "countryId": "CG",
+        "countryName": "CONGO"
+    },
+    {
+        "countryId": "CH",
+        "countryName": "SWITZERLAND"
+    },
+    {
+        "countryId": "CI",
+        "countryName": "CÔTE D'IVOIRE"
+    },
+    {
+        "countryId": "CK",
+        "countryName": "COOK ISLANDS"
+    },
+    {
+        "countryId": "CL",
+        "countryName": "CHILE"
+    },
+    {
+        "countryId": "CM",
+        "countryName": "CAMEROON"
+    },
+    {
+        "countryId": "CN",
+        "countryName": "CHINA"
+    },
+    {
+        "countryId": "CO",
+        "countryName": "COLOMBIA"
+    },
+    {
+        "countryId": "CR",
+        "countryName": "COSTA RICA"
+    },
+    {
+        "countryId": "CU",
+        "countryName": "CUBA"
+    },
+    {
+        "countryId": "CV",
+        "countryName": "CAPE VERDE"
+    },
+    {
+        "countryId": "CX",
+        "countryName": "CHRISTMAS ISLAND"
+    },
+    {
+        "countryId": "CY",
+        "countryName": "CYPRUS"
+    },
+    {
+        "countryId": "CZ",
+        "countryName": "CZECH REPUBLIC"
+    },
+    {
+        "countryId": "DE",
+        "countryName": "GERMANY"
+    },
+    {
+        "countryId": "DJ",
+        "countryName": "DJIBOUTI"
+    },
+    {
+        "countryId": "DK",
+        "countryName": "DENMARK"
+    },
+    {
+        "countryId": "DM",
+        "countryName": "DOMINICA"
+    },
+    {
+        "countryId": "DO",
+        "countryName": "DOMINICAN REPUBLIC"
+    },
+    {
+        "countryId": "DZ",
+        "countryName": "ALGERIA"
+    },
+    {
+        "countryId": "EC",
+        "countryName": "ECUADOR"
+    },
+    {
+        "countryId": "EE",
+        "countryName": "ESTONIA"
+    },
+    {
+        "countryId": "EG",
+        "countryName": "EGYPT"
+    },
+    {
+        "countryId": "EH",
+        "countryName": "WESTERN SAHARA"
+    },
+    {
+        "countryId": "ER",
+        "countryName": "ERITREA"
+    },
+    {
+        "countryId": "ES",
+        "countryName": "SPAIN"
+    },
+    {
+        "countryId": "ET",
+        "countryName": "ETHIOPIA"
+    },
+    {
+        "countryId": "FI",
+        "countryName": "FINLAND"
+    },
+    {
+        "countryId": "FJ",
+        "countryName": "FIJI"
+    },
+    {
+        "countryId": "FK",
+        "countryName": "FALKLAND ISLANDS (MALVINAS)"
+    },
+    {
+        "countryId": "FM",
+        "countryName": "MICRONESIA, FEDERATED STATES OF"
+    },
+    {
+        "countryId": "FO",
+        "countryName": "FAROE ISLANDS"
+    },
+    {
+        "countryId": "FR",
+        "countryName": "FRANCE"
+    },
+    {
+        "countryId": "GA",
+        "countryName": "GABON"
+    },
+    {
+        "countryId": "GB",
+        "countryName": "UNITED KINGDOM"
+    },
+    {
+        "countryId": "GD",
+        "countryName": "GRENADA"
+    },
+    {
+        "countryId": "GE",
+        "countryName": "GEORGIA"
+    },
+    {
+        "countryId": "GF",
+        "countryName": "FRENCH GUIANA"
+    },
+    {
+        "countryId": "GG",
+        "countryName": "GUERNSEY"
+    },
+    {
+        "countryId": "GH",
+        "countryName": "GHANA"
+    },
+    {
+        "countryId": "GI",
+        "countryName": "GIBRALTAR"
+    },
+    {
+        "countryId": "GL",
+        "countryName": "GREENLAND"
+    },
+    {
+        "countryId": "GM",
+        "countryName": "GAMBIA"
+    },
+    {
+        "countryId": "GN",
+        "countryName": "GUINEA"
+    },
+    {
+        "countryId": "GP",
+        "countryName": "GUADELOUPE"
+    },
+    {
+        "countryId": "GQ",
+        "countryName": "EQUATORIAL GUINEA"
+    },
+    {
+        "countryId": "GR",
+        "countryName": "GREECE"
+    },
+    {
+        "countryId": "GS",
+        "countryName": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+    },
+    {
+        "countryId": "GT",
+        "countryName": "GUATEMALA"
+    },
+    {
+        "countryId": "GU",
+        "countryName": "GUAM"
+    },
+    {
+        "countryId": "GW",
+        "countryName": "GUINEA-BISSAU"
+    },
+    {
+        "countryId": "GY",
+        "countryName": "GUYANA"
+    },
+    {
+        "countryId": "HK",
+        "countryName": "HONG KONG"
+    },
+    {
+        "countryId": "HM",
+        "countryName": "HEARD ISLAND AND MCDONALD ISLANDS"
+    },
+    {
+        "countryId": "HN",
+        "countryName": "HONDURAS"
+    },
+    {
+        "countryId": "HR",
+        "countryName": "CROATIA"
+    },
+    {
+        "countryId": "HT",
+        "countryName": "HAITI"
+    },
+    {
+        "countryId": "HU",
+        "countryName": "HUNGARY"
+    },
+    {
+        "countryId": "ID",
+        "countryName": "INDONESIA"
+    },
+    {
+        "countryId": "IE",
+        "countryName": "IRELAND"
+    },
+    {
+        "countryId": "IL",
+        "countryName": "ISRAEL"
+    },
+    {
+        "countryId": "IM",
+        "countryName": "ISLE OF MAN"
+    },
+    {
+        "countryId": "IO",
+        "countryName": "BRITISH INDIAN OCEAN TERRITORY"
+    },
+    {
+        "countryId": "IQ",
+        "countryName": "IRAQ"
+    },
+    {
+        "countryId": "IR",
+        "countryName": "IRAN, ISLAMIC REPUBLIC OF"
+    },
+    {
+        "countryId": "IS",
+        "countryName": "ICELAND"
+    }
+]
