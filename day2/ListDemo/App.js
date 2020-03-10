@@ -1,19 +1,11 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
-
 import React from 'react';
-import {SafeAreaView, FlatList, Text} from 'react-native';
+import {SafeAreaView, FlatList, Text, StyleSheet} from 'react-native';
 import countries from './countries.json';
 const App = () => {
   const renderCountry = ({item}) => {
     return (
       <>
-        <Text key={item.countryId} style={{paddingVertical: 10}}>
+        <Text key={item.countryId} style={styles.item}>
           {item.countryName}
         </Text>
       </>
@@ -32,5 +24,11 @@ const App = () => {
     </>
   );
 };
+const styles = StyleSheet.create({
+  item: {
+    paddingVertical: 10,
+    fontSize: 18,
+  },
+});
 
 export default App;
