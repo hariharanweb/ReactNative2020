@@ -1,9 +1,12 @@
 import React, {useState} from 'react';
 import {View, StyleSheet, TextInput, Button} from 'react-native';
 
-const TodoContainer = () => {
+const TodoContainer = ({navigation}) => {
   const [todo, setTodo] = useState('');
-
+  const handleAdd = () => {
+    setTodo('');
+    navigation.navigate('TodoList');
+  };
   return (
     <View style={styles.container}>
       <TextInput
@@ -12,7 +15,7 @@ const TodoContainer = () => {
         value={todo}
         style={styles.input}
       />
-      <Button title="Add Todo" color="#841584" />
+      <Button title="Add Todo" color="#841584" onPress={handleAdd} />
     </View>
   );
 };
